@@ -1,0 +1,528 @@
+{
+    "ai_map": {
+        "footprint": "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"
+    },
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {
+        "link100": {
+            "dst_id": "11111111-1111-1111-1111-000000000001",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000000",
+            "src_view_id": "outputRows"
+        },
+        "link101": {
+            "dst_id": "11111111-1111-1111-1111-000000000002",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000001",
+            "src_view_id": "output0"
+        },
+        "link102": {
+            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000002",
+            "src_view_id": "output0"
+        }
+    },
+    "property_map": {
+        "error": {
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "nkhan@snaplogic.com"
+            },
+            "label": {},
+            "notes": {
+                "value": ""
+            },
+            "pipeline_doc_uri": {
+                "value": null
+            },
+            "purpose": {
+                "value": null
+            }
+        },
+        "input": {
+            "11111111-1111-1111-1111-000000000000_input101": {
+                "label": {
+                    "value": "SQL Server - Select - input101"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "output": {
+            "11111111-1111-1111-1111-000000000003_output101": {
+                "label": {
+                    "value": "Salesforce Upsert - output101"
+                },
+                "view_type": {
+                    "value": "document"
+                }
+            }
+        },
+        "settings": {
+            "imports": {
+                "value": []
+            },
+            "param_table": {
+                "value": []
+            }
+        }
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {
+            "11111111-1111-1111-1111-000000000000": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 2,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000001": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 3,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000002": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 4,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000003": {
+                "error": {},
+                "errors": {},
+                "grid_x_int": 5,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            }
+        },
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1
+    },
+    "snap_map": {
+        "11111111-1111-1111-1111-000000000000": {
+            "class_id": "com-snaplogic-snaps-sqlserver-select",
+            "class_version": 3,
+            "instance_id": "11111111-1111-1111-1111-000000000000",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "value": "SE_DEMO_SQL_Server vld 09.27.23"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "SQL Server - Select"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input101": {
+                        "label": {
+                            "value": "input101"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "outputRows": {
+                        "label": {
+                            "value": "rows"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "autoCommit": {
+                        "value": "False"
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "fetchOutputFieldsInSchema": {
+                        "value": false
+                    },
+                    "ignoreEmptyResult": {
+                        "value": false
+                    },
+                    "limitOffset": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "limitRows": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "matchDataTypes": {
+                        "value": false
+                    },
+                    "maxRetryProp": {
+                        "expression": false,
+                        "value": 0
+                    },
+                    "outputFields": {
+                        "value": []
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "queryHints": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "retryIntervalProp": {
+                        "expression": false,
+                        "value": 1
+                    },
+                    "rowversion": {
+                        "value": false
+                    },
+                    "schemaName": {
+                        "expression": true,
+                        "value": "\"MEISTERER\""
+                    },
+                    "sqlStatement": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "stagingMode": {
+                        "value": "In memory"
+                    },
+                    "tableName": {
+                        "expression": true,
+                        "value": "\"billing\""
+                    },
+                    "unique_identifier_column_option": {
+                        "value": "Convert to lower case (default)"
+                    },
+                    "whereClause": {
+                        "expression": false,
+                        "value": ""
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000001": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000001",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Mapper"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "nullSafeAccess": {
+                        "value": true
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "maskSSN($ssn)"
+                                        },
+                                        "targetPath": {
+                                            "value": "$ssn"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000002": {
+            "class_id": "com-snaplogic-snaps-flow-filter",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000002",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Filter"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "filterExpression": {
+                        "expression": true,
+                        "value": "$billing_state == 'MA'"
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000003": {
+            "class_id": "com-snaplogic-snaps-salesforce-upsert",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "value": "dvetter-SFDC_Prod"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-salesforce-salesforceaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Salesforce Upsert"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output101": {
+                        "label": {
+                            "value": "output101"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "batchSize": {
+                        "expression": false,
+                        "value": 200
+                    },
+                    "bulkAPISerialMode": {
+                        "value": false
+                    },
+                    "bulkContentType": {
+                        "value": "XML"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Execute only"
+                    },
+                    "externalIdFieldName": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "nullSettingWithBulkApi": {
+                        "value": false
+                    },
+                    "objectType": {
+                        "expression": false,
+                        "value": "Billing__c"
+                    },
+                    "passThrough": {
+                        "value": true
+                    },
+                    "relatedExternalId": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "relatedObject": {
+                        "expression": false,
+                        "value": ""
+                    },
+                    "salesforceApi": {
+                        "value": "Bulk API"
+                    },
+                    "serviceVersion": {
+                        "expression": false,
+                        "value": "52.0"
+                    },
+                    "standardizeErrorOutput": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        }
+    }
+}
