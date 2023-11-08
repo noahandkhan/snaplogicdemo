@@ -1,0 +1,16 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Exposing Flat File via API Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "pipeline_parameters": {},
+        "pipeline_path": "Exposing Flat File via API",
+        "snaplex_path": "TriggerCloudplex"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}

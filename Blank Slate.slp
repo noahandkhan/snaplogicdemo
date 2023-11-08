@@ -1,6 +1,6 @@
 {
     "ai_map": {
-        "footprint": "H4sIAAAAAAAAA+1ZbW+cOBD+KytUXXtSaGFhYYlU6dI2uUbXvFw2bU+6VsgYs+srYGqbJHtR/vuNDUsIsA3pqVJ0uk9r8NieGc/zzAx7beAUCREmX2ls7BqYZabIUZGyJcVmQQuS0pyEgbFjiJzFJNRS3sxF84Q402gWRDEhrhtg18ExSNFcSJTjWjCYIxx4fmy6rmWbrh/7ZjB3PTMmkW3Z85i4OGkvuiBcUJYbu/aOAQd/CTNUGLvXemxblhoKjsMLSi6rA1gpi1KesUsB28RCtqZoDjOWUhxW6Dck9tz5LJrB8UkEKk0t0IZYphXYse/Mkqk9J/U2Wj5BjpNErm06kQfyHnLMue37ZhL4HonmUxv7SGkvfmWSGbsJSgW52amVtbcpa43QdOTJjaYBTtwg8RMzcebYdGPsmghcbsaw0rESG6MIb9V0+m80HXlyoyn4P54GbmB6rmOZ7gwTE9nx3JzNfBzhKYpjy+tpWqsaCsIpSiE6LGfHKDgrCJfrTYzQPGHqN2eSCDW4QGlJ4EgDlqNSrhhvv82/rFD+SxPrzyHylWBR8oIJ0pLMyzRVExssxAyHJad9iRRFJG0fsfj93USyyeJgclovNpQphPNKFT0II7JCF7SjHKtlBZGS5kttT4E4ykKJorSt3p+fQYxmBeNS3H2t3qv7grcwrK5UjeGBkzwmfOO5AuXhVZiXmbFr7eindfMkMEpJyJGkTKMyJhLRdLNyFKJAbslpDEfQHBSYblFLvY7JVeVOpSLcSAZ6qqNzHTzVhGAlx8pJ6u4mGEm0ZHwNMaMPWTeHaO+KaueNy5XpTFYiVjXW5lQvYHYU8DoGOY/ZoFH47BjkPmaDRhFIx6DZ4zXoRkEqQWUqQ81FShtjRhzbiWIw1J5FkC+DxCMYO44iKCX1UPh9I8WrkTDFV6BZDtnXFCQlWIaO+f74t+OTj8dgZLV69NpmRZPMnVaGr5UYo3lo9+qJkRl8sJ7o5gud1W4zCtwNwpiV6lquN8OQk6RFqsCdPf7WRUmP+uspkNbHyHXR5mwDckgJgSZv88FgGkggULRIE7LtgmfoXK4mRpzaSS2QHtlriH0q2/IHKvmq3cgVwaXGRAY1YFvkA0opwIVMfprsayEtn6GrMyL5+hRc3pK21E4FJ6K6k00VUkCwnK84K5erlrDkpZosc/q1VLcPetOEQtLCLC2zPGSF1Lvc6vKa5XDfUqXclF0SDkAVZPKshtfPSrGESLw60S48oCSNxWG+wCuSodY+G7UghJbgn6OOxYf5JCOZgr/Oo2DlYS4h/lHasdYetjal4OXN/TUlyrAsWM7Xb4EpxgjrwuAYZXe0/WRENIXKY/mpu6z2LwRMA5KeC+gyZ5zsZ4VcnxEBThyQuVwRTl6nqLxTNG1TMkNwAW+AQM8hNsWQ1/V19M042j9cnO+f7Z9tM0T79SRJIKxH6AGktZAQtxoOCspdmZ1OccdaQTNQZlWl52AFuNDkODFhoOkR5DclartEqwZ139DbqJkcg+2bDQNHJU1jSDdLENjw+QOKnHvThuQoFwnjmQkcgJqn0B2fPbZs0U8ibj+JjLFjIImMbeu+L4k8guwwfOhmblx2uBuWwzvWUw9PN8OMv8HmQ7NNEzS6bGuj8xr4pijg1PNu03QNdMmXRJ4i2VbBeCJEXmW8Wz647tFNQw6wv/iyWBw/U+sgw9x81hynzzxj7A4TPan8oPhkgRKyhzFs2U143yKTI9iX8DZ/3OGoe2E/thW4F/YJpFczoSmkvXA6HuqtZX14T/vwHqPvALzHfgv5H94/Ct7VHe+PhNCTukIJhUrIk5cvJ0+P9p5+T9m5FVrNV6St2DqowvK7sTW2K72/E0MpUWQGG5QFRJ4M7Qe0Yt3FfZzZfZyN0X0AZ2O/5P3XerEfCp3tIV/H+YTlqW49ojL9Ah2PhG3OO9v/cfRuI7F3erjQbu20MaN6r0gV6wv6d3vh1NrSxVWaqzwbxiXXeC6XSyKGegb1vYBi8qHXeBiz6XNrW8kOYRQjHoM+++qWThpa7O7eoGCvaH+mNV6BQybgEeUcFv0FxXjXc69qKgrxFiU4SYF24v0rYIscpYfxiF6DNMK6fej2Nt8+6UTrOUJek18VSR+pXClb75p/PwkuGsdN3lf00elVupmo7lbuifGBL+O3y0e0K3NszQKMPHPmJoHpBvPAjObINz3iB5E7tZxgOq/wCH5GGJx2G8H+3HMS1zUTjGLT9VFiBjPLNj3PIhYhyLdwNLhUQ0OuKqZ7ATjL4RYOkACxwxy/eLNOUT75AO4m/MXx26NXRi2v/yTb/EOGowTPfMtDnoMtOwo8TxFiVXiGHCiNZvqjYh3Yxs0/Mlkv1I0bAAA="
+        "footprint": "H4sIAAAAAAAAA8srzckBAE/8yyUEAAAA"
     },
     "class_id": "com-snaplogic-pipeline",
     "class_version": 9,
@@ -13,14 +13,8 @@
         },
         "link101": {
             "dst_id": "11111111-1111-1111-1111-000000000002",
-            "dst_view_id": "input0",
+            "dst_view_id": "inputRows",
             "src_id": "11111111-1111-1111-1111-000000000001",
-            "src_view_id": "output0"
-        },
-        "link102": {
-            "dst_id": "11111111-1111-1111-1111-000000000003",
-            "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000002",
             "src_view_id": "output0"
         }
     },
@@ -36,7 +30,7 @@
             },
             "label": {},
             "notes": {
-                "value": ""
+                "value": null
             },
             "pipeline_doc_uri": {
                 "value": null
@@ -45,20 +39,11 @@
                 "value": null
             }
         },
-        "input": {
-            "11111111-1111-1111-1111-000000000000_input101": {
-                "label": {
-                    "value": "SQL Server - Select - input101"
-                },
-                "view_type": {
-                    "value": "document"
-                }
-            }
-        },
+        "input": {},
         "output": {
-            "11111111-1111-1111-1111-000000000003_output101": {
+            "11111111-1111-1111-1111-000000000002_output0": {
                 "label": {
-                    "value": "Salesforce Upsert - output101"
+                    "value": "Snowflake - Insert - output0"
                 },
                 "view_type": {
                     "value": "document"
@@ -66,11 +51,24 @@
             }
         },
         "settings": {
+            "cache_pipelines": {
+                "value": []
+            },
+            "error_param_table": {
+                "value": []
+            },
+            "error_pipeline": {
+                "expression": false,
+                "value": null
+            },
             "imports": {
                 "value": []
             },
             "param_table": {
                 "value": []
+            },
+            "suspendable": {
+                "value": false
             }
         }
     },
@@ -79,9 +77,8 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "errors": {},
-                "grid_x_int": 2,
-                "grid_y_int": 1,
+                "grid_x_int": 4,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -92,42 +89,27 @@
             },
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
-                "errors": {},
-                "grid_x_int": 3,
-                "grid_y_int": 1,
-                "index": null,
+                "grid_x_int": 5,
+                "grid_y_int": 2,
+                "index": 0,
                 "input": {},
                 "output": {},
-                "recommendation_id": null,
+                "recommendation_id": "9ca07321-d8e9-357c-bd23-c273c883b2de_0",
                 "rot_int": 0,
                 "rot_tail_int": 0,
-                "source": "snap catagory"
+                "source": "iris placeholder"
             },
             "11111111-1111-1111-1111-000000000002": {
                 "error": {},
-                "errors": {},
-                "grid_x_int": 4,
-                "grid_y_int": 1,
-                "index": null,
+                "grid_x_int": 6,
+                "grid_y_int": 2,
+                "index": 0,
                 "input": {},
                 "output": {},
-                "recommendation_id": null,
+                "recommendation_id": "b3485348-4f66-b950-7cda-8f5ced951c9c_0",
                 "rot_int": 0,
                 "rot_tail_int": 0,
-                "source": "snap catagory"
-            },
-            "11111111-1111-1111-1111-000000000003": {
-                "error": {},
-                "errors": {},
-                "grid_x_int": 5,
-                "grid_y_int": 1,
-                "index": null,
-                "input": {},
-                "output": {},
-                "recommendation_id": null,
-                "rot_int": 0,
-                "rot_tail_int": 0,
-                "source": "snap catagory"
+                "source": "iris placeholder"
             }
         },
         "pan_x_num": 0,
@@ -142,10 +124,10 @@
             "property_map": {
                 "account": {
                     "account_ref": {
-                        "expression": false,
                         "value": {
                             "label": {
                                 "expression": false,
+                                "label": "../../shared/SE_DEMO_SQL_Server vld 09.27.23",
                                 "value": "SE_DEMO_SQL_Server vld 09.27.23"
                             },
                             "ref_class_id": {
@@ -177,16 +159,7 @@
                     },
                     "notes": {}
                 },
-                "input": {
-                    "input101": {
-                        "label": {
-                            "value": "input101"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
+                "input": {},
                 "output": {
                     "outputRows": {
                         "label": {
@@ -212,11 +185,11 @@
                     },
                     "limitOffset": {
                         "expression": false,
-                        "value": ""
+                        "value": null
                     },
                     "limitRows": {
                         "expression": false,
-                        "value": ""
+                        "value": null
                     },
                     "matchDataTypes": {
                         "value": false
@@ -224,6 +197,9 @@
                     "maxRetryProp": {
                         "expression": false,
                         "value": 0
+                    },
+                    "orderBy": {
+                        "value": []
                     },
                     "outputFields": {
                         "value": []
@@ -233,7 +209,7 @@
                     },
                     "queryHints": {
                         "expression": false,
-                        "value": ""
+                        "value": null
                     },
                     "retryIntervalProp": {
                         "expression": false,
@@ -243,10 +219,6 @@
                         "value": false
                     },
                     "schemaName": {
-                        "expression": true,
-                        "value": "\"MEISTERER\""
-                    },
-                    "sqlStatement": {
                         "expression": false,
                         "value": null
                     },
@@ -254,15 +226,15 @@
                         "value": "In memory"
                     },
                     "tableName": {
-                        "expression": true,
-                        "value": "\"billing\""
+                        "expression": false,
+                        "value": "\"SEDEMO\".\"Raw_Data\""
                     },
                     "unique_identifier_column_option": {
                         "value": "Convert to lower case (default)"
                     },
                     "whereClause": {
                         "expression": false,
-                        "value": ""
+                        "value": null
                     }
                 },
                 "view_serial": 100
@@ -290,9 +262,7 @@
                     "label": {
                         "value": "Mapper"
                     },
-                    "notes": {
-                        "value": null
-                    }
+                    "notes": {}
                 },
                 "input": {
                     "input0": {
@@ -319,7 +289,7 @@
                         "value": "Validate & Execute"
                     },
                     "nullSafeAccess": {
-                        "value": true
+                        "value": false
                     },
                     "passThrough": {
                         "value": false
@@ -334,10 +304,28 @@
                                     {
                                         "expression": {
                                             "expression": true,
-                                            "value": "maskSSN($ssn)"
+                                            "value": "$AccountId.substr(0,4)"
                                         },
                                         "targetPath": {
-                                            "value": "$ssn"
+                                            "value": "$ACCOUNTID"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$Amount"
+                                        },
+                                        "targetPath": {
+                                            "value": "$AMOUNT"
+                                        }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$CloseDate"
+                                        },
+                                        "targetPath": {
+                                            "value": "$CLOSEDATE"
                                         }
                                     }
                                 ]
@@ -349,81 +337,20 @@
             }
         },
         "11111111-1111-1111-1111-000000000002": {
-            "class_id": "com-snaplogic-snaps-flow-filter",
-            "class_version": 2,
-            "instance_id": "11111111-1111-1111-1111-000000000002",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
-                        "value": "Filter"
-                    },
-                    "notes": {
-                        "value": null
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "output0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {
-                    "execution_mode": {
-                        "value": "Validate & Execute"
-                    },
-                    "filterExpression": {
-                        "expression": true,
-                        "value": "$billing_state == 'MA'"
-                    },
-                    "nullSafeAccess": {
-                        "value": false
-                    }
-                },
-                "view_serial": 100
-            }
-        },
-        "11111111-1111-1111-1111-000000000003": {
-            "class_id": "com-snaplogic-snaps-salesforce-upsert",
+            "class_id": "com-snaplogic-snaps-snowflake-insert",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "instance_id": "11111111-1111-1111-1111-000000000002",
             "property_map": {
                 "account": {
                     "account_ref": {
-                        "expression": false,
                         "value": {
                             "label": {
                                 "expression": false,
-                                "value": "dvetter-SFDC_Prod"
+                                "label": "../shared/Dylan_SnowFlake",
+                                "value": "Dylan_SnowFlake"
                             },
                             "ref_class_id": {
-                                "value": "com-snaplogic-snaps-salesforce-salesforceaccount"
+                                "value": "com-snaplogic-snap-api-sql-accounts-snowflakeazuredatabaseaccount"
                             },
                             "ref_id": {
                                 "expression": false,
@@ -447,14 +374,14 @@
                 },
                 "info": {
                     "label": {
-                        "value": "Salesforce Upsert"
+                        "value": "Snowflake - Insert"
                     },
                     "notes": {}
                 },
                 "input": {
-                    "input0": {
+                    "inputRows": {
                         "label": {
-                            "value": "input0"
+                            "value": "rows"
                         },
                         "view_type": {
                             "value": "document"
@@ -462,9 +389,9 @@
                     }
                 },
                 "output": {
-                    "output101": {
+                    "output0": {
                         "label": {
-                            "value": "output101"
+                            "value": "output0"
                         },
                         "view_type": {
                             "value": "document"
@@ -472,15 +399,8 @@
                     }
                 },
                 "settings": {
-                    "batchSize": {
-                        "expression": false,
-                        "value": 200
-                    },
-                    "bulkAPISerialMode": {
+                    "createTable": {
                         "value": false
-                    },
-                    "bulkContentType": {
-                        "value": "XML"
                     },
                     "executable_during_suggest": {
                         "value": false
@@ -488,37 +408,27 @@
                     "execution_mode": {
                         "value": "Execute only"
                     },
-                    "externalIdFieldName": {
+                    "maxRetryProp": {
                         "expression": false,
-                        "value": ""
+                        "value": 0
                     },
-                    "nullSettingWithBulkApi": {
+                    "preserveCaseSensistiveness": {
                         "value": false
                     },
-                    "objectType": {
+                    "retryIntervalProp": {
                         "expression": false,
-                        "value": "Billing__c"
+                        "value": 1
                     },
-                    "passThrough": {
-                        "value": true
-                    },
-                    "relatedExternalId": {
+                    "schemaName": {
                         "expression": false,
-                        "value": ""
+                        "value": null
                     },
-                    "relatedObject": {
+                    "sqlQueryManagement": {
+                        "value": "Continue to execute queued queries when pipeline is stopped or if it fails"
+                    },
+                    "tableName": {
                         "expression": false,
-                        "value": ""
-                    },
-                    "salesforceApi": {
-                        "value": "Bulk API"
-                    },
-                    "serviceVersion": {
-                        "expression": false,
-                        "value": "52.0"
-                    },
-                    "standardizeErrorOutput": {
-                        "value": false
+                        "value": "\"PUBLIC\".\"SQL_DV_DEMO_1\""
                     }
                 },
                 "view_serial": 100

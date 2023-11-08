@@ -1,0 +1,913 @@
+{
+    "ai_map": {
+        "footprint": "H4sIAAAAAAAAA8srzckBAE/8yyUEAAAA"
+    },
+    "class_id": "com-snaplogic-pipeline",
+    "class_version": 9,
+    "link_map": {
+        "link103": {
+            "dst_id": "11111111-1111-1111-1111-000000000001",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000000",
+            "src_view_id": "output0"
+        },
+        "link106": {
+            "dst_id": "11111111-1111-1111-1111-000000000002",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000001",
+            "src_view_id": "output0"
+        },
+        "link109": {
+            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_view_id": "output1"
+        },
+        "link110": {
+            "dst_id": "11111111-1111-1111-1111-000000000004",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_view_id": "output0"
+        },
+        "link116": {
+            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000002",
+            "src_view_id": "output0"
+        }
+    },
+    "property_map": {
+        "error": {
+            "error_behavior": {
+                "value": "none"
+            }
+        },
+        "info": {
+            "author": {
+                "value": "nkhan@snaplogic.com"
+            },
+            "label": {},
+            "notes": {
+                "value": null
+            },
+            "pipeline_doc_uri": {
+                "value": null
+            },
+            "purpose": {
+                "value": null
+            }
+        },
+        "input": {},
+        "output": {},
+        "settings": {
+            "error_param_table": {
+                "value": []
+            },
+            "error_pipeline": {
+                "expression": false,
+                "value": null
+            },
+            "imports": {
+                "value": []
+            },
+            "param_table": {
+                "value": [
+                    {
+                        "capture": {
+                            "value": true
+                        },
+                        "data_type": {
+                            "value": "string"
+                        },
+                        "description": {
+                            "value": null
+                        },
+                        "key": {
+                            "value": "schema"
+                        },
+                        "required": {
+                            "value": false
+                        },
+                        "value": {
+                            "value": "test"
+                        }
+                    },
+                    {
+                        "capture": {
+                            "value": true
+                        },
+                        "data_type": {
+                            "value": "string"
+                        },
+                        "description": {
+                            "value": null
+                        },
+                        "key": {
+                            "value": "table"
+                        },
+                        "required": {
+                            "value": false
+                        },
+                        "value": {
+                            "value": "test"
+                        }
+                    }
+                ]
+            },
+            "suspendable": {
+                "value": false
+            }
+        }
+    },
+    "render_map": {
+        "default_snaplex": null,
+        "detail_map": {
+            "11111111-1111-1111-1111-000000000000": {
+                "error": {},
+                "grid_x_int": 2,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000001": {
+                "error": {},
+                "grid_x_int": 3,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000002": {
+                "error": {},
+                "grid_x_int": 4,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000003": {
+                "error": {},
+                "grid_x_int": 5,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {
+                    "output1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            },
+            "11111111-1111-1111-1111-000000000004": {
+                "error": {},
+                "grid_x_int": 6,
+                "grid_y_int": 1,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": ""
+            },
+            "11111111-1111-1111-1111-000000000005": {
+                "error": {},
+                "grid_x_int": 6,
+                "grid_y_int": 2,
+                "index": null,
+                "input": {},
+                "output": {},
+                "recommendation_id": null,
+                "rot_int": 0,
+                "rot_tail_int": 0,
+                "source": "snap catagory"
+            }
+        },
+        "pan_x_num": 0,
+        "pan_y_num": 0,
+        "scale_ratio": 1
+    },
+    "snap_map": {
+        "11111111-1111-1111-1111-000000000000": {
+            "class_id": "com-snaplogic-snaps-elt-eltselect",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000000",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "SnowFlake ELT Select "
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {},
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "databaseName": {
+                        "expression": false,
+                        "value": "COMMERCIAL_SE"
+                    },
+                    "enableSqlQuery": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": true
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": "PUBLIC"
+                    },
+                    "sqlQuery": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "DATA_FROM_SQL_SERVER"
+                    },
+                    "viewTableMapping": {
+                        "value": []
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000001": {
+            "class_id": "com-snaplogic-snaps-elt-elttransform",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000001",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "ELT Transform"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": true
+                    },
+                    "mappingTable": {
+                        "value": [
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "ACCOUNTID"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "ACCOUNTID"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "NAME"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "NAME"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "AMOUNT"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "AMOUNT"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "EXPECTED_REVENUE"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "EXPECTED_REVENUE"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "DESCRIPTION"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "DESCRIPTION"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "UPPER(FORECASTCATEGORY)"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "FORECAST_CATEGORY"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "FISCAL"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "FISCAL"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "CLOSEDATE"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "CLOSE_DATE"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "CREATEDDATE"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "CREATED_DATE"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "LEADSOURCE"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "LEADSOURCE"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "PROBABILITY"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "PROBABILITY"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "STAGENAME"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "STAGENAME"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "TYPE"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "TYPE"
+                                }
+                            },
+                            {
+                                "sourceSqlExpression": {
+                                    "expression": false,
+                                    "value": "OWNERID"
+                                },
+                                "targetSqlExpression": {
+                                    "value": "OWNERID"
+                                }
+                            }
+                        ]
+                    },
+                    "passThrough": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000002": {
+            "class_id": "com-snaplogic-snaps-elt-eltsort",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000002",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "ELT Sort"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": false
+                    },
+                    "sortPaths": {
+                        "value": [
+                            {
+                                "sortNullsInd": {
+                                    "value": "NULLS LAST"
+                                },
+                                "sortOrderInd": {
+                                    "value": "ASC"
+                                },
+                                "sortPath": {
+                                    "value": "PROBABILITY"
+                                }
+                            },
+                            {
+                                "sortNullsInd": {
+                                    "value": "NULLS LAST"
+                                },
+                                "sortOrderInd": {
+                                    "value": "ASC"
+                                },
+                                "sortPath": {
+                                    "value": "EXPECTED_REVENUE"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000003": {
+            "class_id": "com-snaplogic-snaps-elt-eltrouter",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000003",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "ELT Router"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "output1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "evaluateExpressionBeforeForwardingProp": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": false
+                    },
+                    "routes": {
+                        "value": [
+                            {
+                                "booleanExpression": {
+                                    "booleanExpression": false,
+                                    "expression": false,
+                                    "value": "PROBABILITY > 75"
+                                },
+                                "outputViewName": {
+                                    "value": "output0"
+                                }
+                            },
+                            {
+                                "booleanExpression": {
+                                    "booleanExpression": false,
+                                    "expression": false,
+                                    "value": "PROBABILITY < 75"
+                                },
+                                "outputViewName": {
+                                    "value": "output1"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000004": {
+            "class_id": "com-snaplogic-snaps-elt-eltinsertselect",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000004",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "SnowFlake ELT Insert"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "advancedOptionsProp": {
+                        "value": false
+                    },
+                    "databaseName": {
+                        "expression": false,
+                        "value": "COMMERCIAL_SE"
+                    },
+                    "enableSqlQuery": {
+                        "value": false
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": true
+                    },
+                    "insertColumnValuesProp": {
+                        "value": []
+                    },
+                    "insertOverwrite": {
+                        "value": true
+                    },
+                    "operationTypesProp": {
+                        "value": "Source Columns Order"
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": "PUBLIC"
+                    },
+                    "sqlQuery": {
+                        "expression": false,
+                        "value": null
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "LOW_PROBABILITY"
+                    },
+                    "tableOptionList": {
+                        "value": []
+                    },
+                    "viewTableMapping": {
+                        "value": []
+                    }
+                },
+                "view_serial": 101
+            }
+        },
+        "11111111-1111-1111-1111-000000000005": {
+            "class_id": "com-snaplogic-snaps-elt-eltinsertselect",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/Snowflake Account Bigdatasnaplogic",
+                                "value": "Snowflake Account Bigdatasnaplogic"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snaps-elt-eltdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "SnowFlake ELT Insert"
+                    },
+                    "notes": {}
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {},
+                "settings": {
+                    "advancedOptionsProp": {
+                        "value": false
+                    },
+                    "databaseName": {
+                        "expression": false,
+                        "value": "COMMERCIAL_SE"
+                    },
+                    "executable_during_suggest": {
+                        "value": false
+                    },
+                    "execution_mode": {
+                        "value": "Validate & Execute"
+                    },
+                    "getPreviewData": {
+                        "value": true
+                    },
+                    "insertColumnValuesProp": {
+                        "value": []
+                    },
+                    "insertOverwrite": {
+                        "value": true
+                    },
+                    "operationTypesProp": {
+                        "value": "Source Columns Order"
+                    },
+                    "schemaName": {
+                        "expression": false,
+                        "value": "PUBLIC"
+                    },
+                    "tableName": {
+                        "expression": false,
+                        "value": "HIGH_PROBABILITY"
+                    },
+                    "tableOptionList": {
+                        "value": []
+                    }
+                },
+                "view_serial": 101
+            }
+        }
+    }
+}
