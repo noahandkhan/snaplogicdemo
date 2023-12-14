@@ -1414,25 +1414,7 @@
             "class_version": 3,
             "instance_id": "11111111-1111-1111-1111-000000000007",
             "property_map": {
-                "account": {
-                    "account_ref": {
-                        "expression": false,
-                        "value": {
-                            "label": {
-                                "expression": false,
-                                "label": "../../shared/SE_DEMO_SQL_Server",
-                                "value": "SE_DEMO_SQL_Server"
-                            },
-                            "ref_class_id": {
-                                "value": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount"
-                            },
-                            "ref_id": {
-                                "expression": false,
-                                "value": null
-                            }
-                        }
-                    }
-                },
+                "account": {},
                 "error": {
                     "error0": {
                         "label": {
