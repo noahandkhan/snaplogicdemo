@@ -65,7 +65,7 @@
         },
         "info": {
             "author": {
-                "value": "dvetter@snaplogic.com"
+                "value": "nkhan@snaplogic.com"
             },
             "label": {},
             "notes": {
@@ -834,7 +834,24 @@
             "class_version": 1,
             "instance_id": "11111111-1111-1111-1111-000000000006",
             "property_map": {
-                "account": {},
+                "account": {
+                    "account_ref": {
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/SE_DEMO_SQL_Server vld 06.07.23",
+                                "value": "SE_DEMO_SQL_Server vld 06.07.23"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
                 "error": {
                     "error0": {
                         "label": {

@@ -153,7 +153,7 @@
                 "error": {},
                 "errors": {},
                 "grid_x_int": 2,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -165,7 +165,7 @@
             "11111111-1111-1111-1111-000000000001": {
                 "error": {},
                 "grid_x_int": 3,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -178,7 +178,7 @@
                 "error": {},
                 "errors": {},
                 "grid_x_int": 4,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -190,7 +190,7 @@
             "11111111-1111-1111-1111-000000000003": {
                 "error": {},
                 "grid_x_int": 5,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -209,7 +209,7 @@
                 },
                 "errors": {},
                 "grid_x_int": 6,
-                "grid_y_int": 3,
+                "grid_y_int": 2,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -221,7 +221,7 @@
             "11111111-1111-1111-1111-000000000005": {
                 "error": {},
                 "grid_x_int": 7,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -233,7 +233,7 @@
             "11111111-1111-1111-1111-000000000006": {
                 "error": {},
                 "grid_x_int": 8,
-                "grid_y_int": 2,
+                "grid_y_int": 1,
                 "index": null,
                 "input": {},
                 "output": {},
@@ -253,7 +253,25 @@
             "class_version": 3,
             "instance_id": "11111111-1111-1111-1111-000000000000",
             "property_map": {
-                "account": {},
+                "account": {
+                    "account_ref": {
+                        "expression": false,
+                        "value": {
+                            "label": {
+                                "expression": false,
+                                "label": "../../shared/SE_DEMO_SQL_Server vld 09.27.23",
+                                "value": "SE_DEMO_SQL_Server vld 09.27.23"
+                            },
+                            "ref_class_id": {
+                                "value": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount"
+                            },
+                            "ref_id": {
+                                "expression": false,
+                                "value": null
+                            }
+                        }
+                    }
+                },
                 "error": {
                     "error0": {
                         "label": {
